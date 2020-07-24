@@ -15,8 +15,8 @@ class NavBar extends React.Component {
                         <p>Grill</p>   
                     </h1>
                     <ul className='navButtons'>
-                        <Link to='/' className='navLink'><li className='navButton'><a>Home</a></li></Link>
-                        <Link to='/menu' className='navLink'><li className='navButton'><a>Menu</a></li></Link>
+                        <Link to='/kioscomexicangrillredesign/' className='navLink'><li className='navButton'><a>Home</a></li></Link>
+                        <Link to='/kioscomexicangrillredesign/menu' className='navLink'><li className='navButton'><a>Menu</a></li></Link>
                     </ul>
 
                     <div className='info'>

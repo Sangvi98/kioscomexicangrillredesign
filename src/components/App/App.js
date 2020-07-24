@@ -13,8 +13,8 @@ class App extends React.Component {
         <div> 
           <NavBar />
           <Switch>
-            <Route path="/" exact component={Slideshow}/>
-            <Route path="/menu" component={Menu}/>
+            <Route path="/kioscomexicangrillredesign/" exact component={Slideshow}/>
+            <Route path="/kioscomexicangrillredesign/menu" component={Menu}/>
           </Switch>    
         </div>
       </Router>
