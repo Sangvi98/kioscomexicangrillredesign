@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css",
+    "main.css": "/kioscomexicangrillredesign/static/css/main.0d15b682.chunk.css",
     "main.js": "/kioscomexicangrillredesign/static/js/main.8004253b.chunk.js",
     "main.js.map": "/kioscomexicangrillredesign/static/js/main.8004253b.chunk.js.map",
     "runtime-main.js": "/kioscomexicangrillredesign/static/js/runtime-main.9181325b.js",
@@ -9,10 +9,10 @@
     "static/js/2.88105666.chunk.js": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js",
     "static/js/2.88105666.chunk.js.map": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.map",
     "index.html": "/kioscomexicangrillredesign/index.html",
-    "precache-manifest.b69c81c5eb005d2a13776a517ce76bd8.js": "/kioscomexicangrillredesign/precache-manifest.b69c81c5eb005d2a13776a517ce76bd8.js",
+    "precache-manifest.80d44dc172a9727dd6a3a65416679aee.js": "/kioscomexicangrillredesign/precache-manifest.80d44dc172a9727dd6a3a65416679aee.js",
     "service-worker.js": "/kioscomexicangrillredesign/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.53a6e5c5.chunk.css.map": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css.map",
+    "static/css/main.0d15b682.chunk.css.map": "/kioscomexicangrillredesign/static/css/main.0d15b682.chunk.css.map",
     "static/js/2.88105666.chunk.js.LICENSE.txt": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.LICENSE.txt",
     "static/media/100086711_3008537892515017_6810711245369376768_o.jpg": "/kioscomexicangrillredesign/static/media/100086711_3008537892515017_6810711245369376768_o.93ae1d4e.jpg",
     "static/media/101311906_3024365594265580_1400891492981014528_o.jpg": "/kioscomexicangrillredesign/static/media/101311906_3024365594265580_1400891492981014528_o.e74f4cf9.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.9181325b.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.88105666.chunk.js",
-    "static/css/main.53a6e5c5.chunk.css",
+    "static/css/main.0d15b682.chunk.css",
     "static/js/main.8004253b.chunk.js"
   ]
 }
