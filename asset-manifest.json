@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css",
-    "main.js": "/kioscomexicangrillredesign/static/js/main.61ba7ba7.chunk.js",
-    "main.js.map": "/kioscomexicangrillredesign/static/js/main.61ba7ba7.chunk.js.map",
+    "main.js": "/kioscomexicangrillredesign/static/js/main.8004253b.chunk.js",
+    "main.js.map": "/kioscomexicangrillredesign/static/js/main.8004253b.chunk.js.map",
     "runtime-main.js": "/kioscomexicangrillredesign/static/js/runtime-main.9181325b.js",
     "runtime-main.js.map": "/kioscomexicangrillredesign/static/js/runtime-main.9181325b.js.map",
     "static/css/2.829c9cb5.chunk.css": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css",
     "static/js/2.88105666.chunk.js": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js",
     "static/js/2.88105666.chunk.js.map": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.map",
     "index.html": "/kioscomexicangrillredesign/index.html",
-    "precache-manifest.02433b48aa90b04a30cfc7dfa894adab.js": "/kioscomexicangrillredesign/precache-manifest.02433b48aa90b04a30cfc7dfa894adab.js",
+    "precache-manifest.b69c81c5eb005d2a13776a517ce76bd8.js": "/kioscomexicangrillredesign/precache-manifest.b69c81c5eb005d2a13776a517ce76bd8.js",
     "service-worker.js": "/kioscomexicangrillredesign/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.53a6e5c5.chunk.css.map": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.88105666.chunk.js",
     "static/css/main.53a6e5c5.chunk.css",
-    "static/js/main.61ba7ba7.chunk.js"
+    "static/js/main.8004253b.chunk.js"
   ]
 }
