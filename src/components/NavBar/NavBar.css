@@ -1,0 +1,101 @@
+.navigation {
+    height: 100vh;
+    min-height :100vh;
+    min-width: 25%;
+    justify-content: left;
+    float: left;
+    background-color: #FDFAF3;
+    position: relative;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.navLink:hover {
+    text-decoration: none;
+}
+
+.navButtons {
+    margin-top: 100px;
+}
+
+.navButton {
+    background-color: #FDFAF3;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    width: 100%;
+    font-size: 2.5vh;
+    margin: 50px auto;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.navButton:hover {
+    color: #d7660a;
+}
+
+.navContent {
+    text-align: center;
+    position: relative;
+    float: left;
+    min-height: 100%;
+    width: 100%;
+    bottom: 10px;
+    
+}
+.navigation a {
+    max-width: 100%;
+    margin-right: 0px;
+}
+
+.info {
+    text-align: center;
+    font-size: 1.7vh;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    margin: 0px auto;
+    font-family: 'Playfair Display', serif;
+}
+
+.info p {
+    margin-bottom: 5px;
+}
+
+.marginTopBottom {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.websiteTitle {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 5vh;
+    color: #d7660a;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.orange {
+    color: #d7660a;
+}
+
+.socialMedia {
+    max-height: 20px;
+}
+
+.socialMediaIcon {
+    max-height: 20px;
+    max-width: 20px;
+    margin: 10px
+}
+
+.socialMediaIcon:hover {
+    opacity: 0.2;
+}

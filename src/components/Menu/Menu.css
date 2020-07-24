@@ -1,0 +1,44 @@
+.menu {
+    width: 75%;
+    height: 100vh;
+    min-height : 100vh;
+    float: right;
+    position: relative;
+    background-color: #FDFAF3;
+    overflow-y: scroll;
+
+}
+
+.menu-bar {
+    width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px 10px 20px;
+    overflow: hidden;
+    border-bottom: 0.5px dotted #d7660a;
+}
+
+.menu-bar li {
+    list-style: none;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Playfair Display', serif;
+    cursor: pointer;
+}
+
+.menu-bar li:hover {
+    color: #d7660a;
+}
+
+.disclaimer {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.8em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.selected{
+    color: #d7660a;
+}

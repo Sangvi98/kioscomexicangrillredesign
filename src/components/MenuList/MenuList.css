@@ -1,0 +1,91 @@
+.menu-list {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.heading {
+    text-align: center;
+    width: 100%;
+}
+
+.heading-text {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    color: #d7660a;
+    font-weight: bold;
+    margin-bottom: hidden;
+    font-size: 1.5em;
+}
+
+.note {
+    text-align: left;
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.note-text {
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95em;
+    
+}
+
+.menu-ul {
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95em;
+    
+}
+
+.menu-li {
+    margin-left: 50px;
+}
+
+.menu-item {
+    font-family: 'Playfair Display', serif;
+    width: 50%;
+    padding: 0px 50px 20px 50px;
+    
+}
+
+.item-name {
+    display: inline-block;
+    color: #d7660a;
+    font-weight: bold;
+    margin-right: 20px;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    /* float: left; */
+}
+
+.item-price {
+    display: inline-block;
+    float: right;
+    margin-bottom: 10px;
+    font-size: 0.9em;
+}
+
+.item-priceLong {
+    font-size: 0.9em;
+    float: right;
+    width: 100%;
+}
+
+.item-priceExLong {
+    font-size: 0.9em;
+    float: right;
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+.item-description {
+    font-style: italic;
+    font-size: 0.9em;
+    width: 100%;
+}
+
