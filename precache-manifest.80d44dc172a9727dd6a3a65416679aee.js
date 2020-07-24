@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40a0cb4fcd778bbd71ffe9f1b820a404",
+    "revision": "5bbf7a22a401a59ede202e8f516788a0",
     "url": "/kioscomexicangrillredesign/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "ca7557c5259fb6fb670c",
-    "url": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css"
+    "revision": "93338a91c6595f526444",
+    "url": "/kioscomexicangrillredesign/static/css/main.0d15b682.chunk.css"
   },
   {
     "revision": "70db62da2b129dcb848e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca7557c5259fb6fb670c",
+    "revision": "93338a91c6595f526444",
     "url": "/kioscomexicangrillredesign/static/js/main.8004253b.chunk.js"
   },
   {
