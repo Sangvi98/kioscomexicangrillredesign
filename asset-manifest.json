@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css",
+    "main.js": "/kioscomexicangrillredesign/static/js/main.2bda7eca.chunk.js",
+    "main.js.map": "/kioscomexicangrillredesign/static/js/main.2bda7eca.chunk.js.map",
+    "runtime-main.js": "/kioscomexicangrillredesign/static/js/runtime-main.9181325b.js",
+    "runtime-main.js.map": "/kioscomexicangrillredesign/static/js/runtime-main.9181325b.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.88105666.chunk.js": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js",
+    "static/js/2.88105666.chunk.js.map": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.map",
+    "index.html": "/kioscomexicangrillredesign/index.html",
+    "precache-manifest.38b380a9449ba35c8f0c70a153f2f985.js": "/kioscomexicangrillredesign/precache-manifest.38b380a9449ba35c8f0c70a153f2f985.js",
+    "service-worker.js": "/kioscomexicangrillredesign/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/kioscomexicangrillredesign/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.53a6e5c5.chunk.css.map": "/kioscomexicangrillredesign/static/css/main.53a6e5c5.chunk.css.map",
+    "static/js/2.88105666.chunk.js.LICENSE.txt": "/kioscomexicangrillredesign/static/js/2.88105666.chunk.js.LICENSE.txt",
+    "static/media/100086711_3008537892515017_6810711245369376768_o.jpg": "/kioscomexicangrillredesign/static/media/100086711_3008537892515017_6810711245369376768_o.93ae1d4e.jpg",
+    "static/media/101311906_3024365594265580_1400891492981014528_o.jpg": "/kioscomexicangrillredesign/static/media/101311906_3024365594265580_1400891492981014528_o.e74f4cf9.jpg",
+    "static/media/102261443_3047229795312493_4324057145758700523_o.jpg": "/kioscomexicangrillredesign/static/media/102261443_3047229795312493_4324057145758700523_o.41bfdb25.jpg",
+    "static/media/104105837_3057158304319642_8982315985857407794_o.jpg": "/kioscomexicangrillredesign/static/media/104105837_3057158304319642_8982315985857407794_o.1e55b53a.jpg",
+    "static/media/84157967_3024366287598844_2070334477606846464_o.jpg": "/kioscomexicangrillredesign/static/media/84157967_3024366287598844_2070334477606846464_o.d498c9c7.jpg",
+    "static/media/98301568_3008540372514769_6114077080490606592_o.jpg": "/kioscomexicangrillredesign/static/media/98301568_3008540372514769_6114077080490606592_o.0cbcef72.jpg",
+    "static/media/99142036_3007073962661410_8704192636312879104_n.jpg": "/kioscomexicangrillredesign/static/media/99142036_3007073962661410_8704192636312879104_n.0aa522e2.jpg",
+    "static/media/iconmonstr-instagram-11-240.png": "/kioscomexicangrillredesign/static/media/iconmonstr-instagram-11-240.89cd8fc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9181325b.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.88105666.chunk.js",
+    "static/css/main.53a6e5c5.chunk.css",
+    "static/js/main.2bda7eca.chunk.js"
+  ]
+}
