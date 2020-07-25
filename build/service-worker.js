@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kioscomexicangrillredesign/precache-manifest.80d44dc172a9727dd6a3a65416679aee.js"
+  "/kioscomexicangrillredesign/precache-manifest.57aacc035339d77a1279d150916f6cb9.js"
 );
 
 self.addEventListener('message', (event) => {
